@@ -1,4 +1,4 @@
-My name is Katie Anders! I currently am attending UNC Charlotte and am working on my Bachelor of Science in Computer Science with a concentration in Cybersecurity. I am also in UNC Charlotte's Early Entry program, working on my Master of Science in Cybersecurity.
+My name is Katie Anders! I currently am attending UNC Charlotte and am working on my Master of Science in Cybersecurity with a concentration in Secure Software Development. I am also a Front-End Developer and UX/UI Designer Intern for Coreware.
 
 **UNCC Class Projects:** \
 ITSC 3155 Software Engineering - [Group 9 Events App](https://github.com/ebaca1/Group9Project) \
