@@ -1,4 +1,4 @@
-My name is Katie Anders! I currently am attending UNC Charlotte and am working on my Master of Science in Cybersecurity with a concentration in Secure Software Development. I am also a Front-End Developer and UX/UI Designer Intern for Coreware.
+Hi, I'm Katie Harris! I've always been a nerd who loves solving problems and learning new things. Today, I'm an Information Technology & Cybersecurity Instructor. I develop hands-on curriculum, explore emerging technologies like AI, and help students build the skills and confidence they need for careers in technology.
 
 **UNCC Class Projects:** \
 ITSC 3155 Software Engineering - [Group 9 Events App](https://github.com/ebaca1/Group9Project) \
