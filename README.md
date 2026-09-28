@@ -1,6 +1,6 @@
 Hi, I'm Katie Harris! I've always been a nerd who loves solving problems and learning new things. Today, I'm an Information Technology & Cybersecurity Instructor. I develop hands-on curriculum, explore emerging technologies like AI, and help students build the skills and confidence they need for careers in technology.
 
-### [Command Spelling Assistant](https://kanders2002.github.io/command-spelling-assistant/)
+### Command Spelling Assistant
 A free, browser-based accessibility tool that spells commands and technical text one character at a time, including spaces and symbols. I created it to support learners who benefit from auditory assistance when working with precise technical instructions.
 
 - [Try the live tool](https://kanders2002.github.io/command-spelling-assistant/)
